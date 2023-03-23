@@ -6,6 +6,21 @@ The script will create the BURP_EXTENSIONS directory.
 chmod +x burp_extensions_downloader.sh
 ./burp_extensions_downloader.sh
 ```
+Consider turning off these extensions:
+* [Log4Shell Everywhere](https://portswigger.net/bappstore/186be35f6e0d418eb1f6ecf1cc66a74d)
+* [Collaborator Everywhere](https://portswigger.net/bappstore/04adbe101f544c88b2497a9a25ffaab4)
+
+These extensions need special configuration:
+* [Semgrepper](https://portswigger.net/bappstore/63cd174fe7e74931a86cad344407f6ab) - run the below command in the `BURP_EXTENSIONS` directory
+```
+pip install semgrep --no-index --find-links semgrep_install
+```
+* [XSS Validator](https://portswigger.net/bappstore/98275a25394a417c9480f58740c1d981)
+
+These extensions will not work at all without the connection to the internet:
+* [Anonymous Cloud, Configuration and Subdomain Takeover Scanner](https://portswigger.net/bappstore/ea60f107b25d44ddb59c1aee3786c6a1)
+
+
 ## SELECTED EXTENSIONS
 * [403 Bypasser](https://portswigger.net/bappstore/444407b96d9c4de0adb7aed89e826122)
 * [ActiveScan++](https://portswigger.net/bappstore/3123d5b5f25c4128894d97ea1acc4976)
