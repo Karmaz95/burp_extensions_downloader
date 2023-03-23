@@ -140,3 +140,15 @@ wget https://portswigger-cdn.net/bappstore/bapps/download/98275a25394a417c9480f5
 mkdir semgrep_install
 cd semgrep_install || exit
 python3 -m pip download semgrep
+## [XSS Validator server](https://github.com/portswigger/xss-validator)
+cd ..
+mkdir xxs_validator
+wget https://raw.githubusercontent.com/PortSwigger/xss-validator/master/xss-detector/xss.js -O xxs_validator/xss.js
+## [PhantomJS](https://phantomjs.org/download.html)
+mkdir PhantomJS
+cd PhantomJS || exit
+wget https://bitbucket.org/ariya/phantomjs/downloads/phantomjs-2.1.1-windows.zip
+wget https://bitbucket.org/ariya/phantomjs/downloads/phantomjs-2.1.1-macosx.zip
+wget https://bitbucket.org/ariya/phantomjs/downloads/phantomjs-2.1.1-linux-x86_64.tar.bz2
+wget https://bitbucket.org/ariya/phantomjs/downloads/phantomjs-2.1.1-linux-i686.tar.bz2
+cd ..
