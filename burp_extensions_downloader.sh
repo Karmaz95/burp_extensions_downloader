@@ -1,6 +1,7 @@
 #!/bin/bash
 mkdir BURP_EXTENSIONS
 cd BURP_EXTENSIONS
+wget https://repo1.maven.org/maven2/org/python/jython-standalone/2.7.3/jython-standalone-2.7.3.jar
 ## [403 Bypasser](https://portswigger.net/bappstore/444407b96d9c4de0adb7aed89e826122)
 wget https://portswigger-cdn.net/bappstore/bapps/download/444407b96d9c4de0adb7aed89e826122 -O "403Bypasser.bapp"
 ## [ActiveScan++](https://portswigger.net/bappstore/3123d5b5f25c4128894d97ea1acc4976)
