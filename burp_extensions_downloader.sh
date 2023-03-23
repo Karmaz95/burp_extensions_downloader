@@ -17,7 +17,7 @@ wget https://portswigger-cdn.net/bappstore/bapps/download/7db49799266c4f85866f54
 ## [AWS Security Checks](https://portswigger.net/bappstore/f078b9254eab40dc8c562177de3d3b2d)
 wget https://portswigger-cdn.net/bappstore/bapps/download/f078b9254eab40dc8c562177de3d3b2d -O "AWS_Security_Checks.bapp"
 ## [Backslash Powered Scanner](https://portswigger.net/bappstore/9cff8c55432a45808432e26dbb2b41d8)
-wget https://portswigger-cdn.net/bappstore/bapps/download/bapps/download/9cff8c55432a45808432e26dbb2b41d8 -O "Backslash_Powered_Scanner.bapp"
+wget https://portswigger-cdn.net/bappstore/bapps/download/9cff8c55432a45808432e26dbb2b41d8 -O "Backslash_Powered_Scanner.bapp"
 ## [Backup Finder](https://portswigger.net/bappstore/466bc6cbf5bb4449b56af7bd9c0000ea)
 wget https://portswigger-cdn.net/bappstore/bapps/download/466bc6cbf5bb4449b56af7bd9c0000ea -O "Backup_Finder.bapp"
 ## [Cloud Storage Tester](https://portswigger.net/bappstore/04adbe101f544c88b2497a9a25ffaab4)
