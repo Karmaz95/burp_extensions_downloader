@@ -15,7 +15,7 @@ wget https://portswigger-cdn.net/bappstore/bapps/download/47027b96525d4353aea584
 ## [Auth Analyzer](https://portswigger.net/bappstore/7db49799266c4f85866f54d9eab82c89)
 wget https://portswigger-cdn.net/bappstore/bapps/download/7db49799266c4f85866f54d9eab82c89 -O "Auth_Analyzer.bapp"
 ## [AWS Security Checks](https://portswigger.net/bappstore/f078b9254eab40dc8c562177de3d3b2d)
-wget https://portswigger.net/bappstore/f078b9254eab40dc8c562177de3d3b2d -O "AWS_Security_Checks.bapp"
+wget https://portswigger-cdn.net/bappstore/bapps/download/f078b9254eab40dc8c562177de3d3b2d -O "AWS_Security_Checks.bapp"
 ## [Backslash Powered Scanner](https://portswigger.net/bappstore/9cff8c55432a45808432e26dbb2b41d8)
 wget https://portswigger.net/bappstore/9cff8c55432a45808432e26dbb2b41d8 -O "Backslash_Powered_Scanner.bapp"
 ## [Backup Finder](https://portswigger.net/bappstore/466bc6cbf5bb4449b56af7bd9c0000ea)
