@@ -80,6 +80,8 @@ wget https://portswigger-cdn.net/bappstore/bapps/download/0e61c786db0c4ac787a08c
 wget https://portswigger-cdn.net/bappstore/bapps/download/0ab7a94d8e11449daaf0fb387431225b -O "JS Miner.bapp"
 ## [JSON Web Token Attacker](https://portswigger.net/bappstore/82d6c60490b540369d6d5d01822bdf61)
 wget https://portswigger-cdn.net/bappstore/bapps/download/82d6c60490b540369d6d5d01822bdf61 -O "JSON Web Token Attacker.bapp"
+## [JSON Web Tokens](https://portswigger.net/bappstore/f923cbf91698420890354c1d8958fee6)
+wget https://portswigger-cdn.net/bappstore/bapps/download/f923cbf91698420890354c1d8958fee6/23 -O "JSON Web Tokens.bapp"
 ## [JSWS Parser](https://portswigger.net/bappstore/1d1b8fd9be354c64a5887f25fc271e56)
 wget https://portswigger-cdn.net/bappstore/bapps/download/1d1b8fd9be354c64a5887f25fc271e56 -O "JSWS Parser.bapp"
 ## [JWT Editor](https://portswigger.net/bappstore/26aaa5ded2f74beea19e2ed8345a93dd)
