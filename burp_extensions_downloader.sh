@@ -136,3 +136,7 @@ wget https://portswigger-cdn.net/bappstore/bapps/download/b2244cbb6953442cb3c82f
 wget https://portswigger-cdn.net/bappstore/bapps/download/7c1ca94a61474d9e897d307c858d52f0 -O "Web Cache Deception Scanner.bapp"
 ## [XSS Validator](https://portswigger.net/bappstore/98275a25394a417c9480f58740c1d981)
 wget https://portswigger-cdn.net/bappstore/bapps/download/98275a25394a417c9480f58740c1d981 -O "XSS Validator.bapp"
+## [Semgrep files for offline installation]
+mkdir semgrep_install
+cd semgrep_install || exit
+python3 -m pip download semgrep
