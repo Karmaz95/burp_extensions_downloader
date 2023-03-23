@@ -11,7 +11,10 @@ These extensions need special configuration:
 ```
 pip install semgrep --no-index --find-links semgrep_install
 ```
-* [XSS Validator](https://portswigger.net/bappstore/98275a25394a417c9480f58740c1d981)
+* [XSS Validator](https://portswigger.net/bappstore/98275a25394a417c9480f58740c1d981) - `PhantomJS` for `Linux/Windows/MacOS` is inside PhantomJS directory
+```
+phantomjs BURP_EXTENSIONS/xss_validator/xss.js
+```
 
 Consider turning off these extensions:
 * [Log4Shell Everywhere](https://portswigger.net/bappstore/186be35f6e0d418eb1f6ecf1cc66a74d)
