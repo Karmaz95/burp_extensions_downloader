@@ -50,7 +50,6 @@ These extensions will not work at all without the connection to the internet:
 * [GraphQL Raider](https://portswigger.net/bappstore/4841f0d78a554ca381c65b26d48207e6)
 * [HackBar, Payload Bucket](https://portswigger.net/bappstore/c1c32424fb8a4843a5404aa5ed5d711a)
 * [Hackvertor](https://portswigger.net/bappstore/65033cbd2c344fbabe57ac060b5dd100)
-* [HeartBleed](https://portswigger.net/bappstore/d405150b57e54887b1dcfa563b7c0b6f)
 * [Host Header Inchecktion](https://portswigger.net/bappstore/3908768b9ae945d8adf583052ad2e3b3)
 * [HTTP Methods Discloser](https://portswigger.net/bappstore/2d84c07f3a8d4e2b97828cd0aa814b07)
 * [HTTP Request Smuggler](https://portswigger.net/bappstore/aaaa60ef945341e8a450217a54a11646)
