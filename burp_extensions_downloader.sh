@@ -50,6 +50,8 @@ wget https://portswigger-cdn.net/bappstore/bapps/download/ae1cce0c6d6c47528b4af3
 wget https://portswigger-cdn.net/bappstore/bapps/download/4841f0d78a554ca381c65b26d48207e6 -O "GraphQL Raider.bapp"
 ## [HackBar, Payload Bucket](https://portswigger.net/bappstore/c1c32424fb8a4843a5404aa5ed5d711a)
 wget https://portswigger-cdn.net/bappstore/bapps/download/c1c32424fb8a4843a5404aa5ed5d711a -O "HackBar_Payload Bucket.bapp"
+## [Hackvertor](https://portswigger.net/bappstore/65033cbd2c344fbabe57ac060b5dd100)
+wget https://portswigger-cdn.net/bappstore/bapps/download/65033cbd2c344fbabe57ac060b5dd100 -O "Hackvertor.bapp"
 ## [HeartBleed](https://portswigger.net/bappstore/d405150b57e54887b1dcfa563b7c0b6f)
 wget https://portswigger-cdn.net/bappstore/bapps/download/d405150b57e54887b1dcfa563b7c0b6f -O "HeartBleed.bapp"
 ## [Host Header Inchecktion](https://portswigger.net/bappstore/3908768b9ae945d8adf583052ad2e3b3)
