@@ -87,6 +87,7 @@ These extensions will not work at all without the connection to the internet:
 * [Server-Side Prototype Pollution Scanner](https://portswigger.net/bappstore/c1d4bd60626d4178a54d36ee802cf7e8)
 * [Similar Request Excluder](https://portswigger.net/bappstore/9ecd51851baf4ae6b69c6a951257387a)
 * [Software Version Reporter](https://portswigger.net/bappstore/ae62baff8fa24150991bad5eaf6d4d38)
+* [Software Vulnerability Scanner](https://portswigger.net/bappstore/c9fb79369b56407792a7104e3c4352fb)
 * [SRI Check](https://portswigger.net/bappstore/2e3a9895bb9b41f8b8a1193ec0399d3d)
 * [SSL Scanner](https://portswigger.net/bappstore/474b3c575a1a4584aa44dfefc70f269d)
 * [Token Incrementor](https://portswigger.net/bappstore/ae166662024149f981bb6920cf3c8960)
