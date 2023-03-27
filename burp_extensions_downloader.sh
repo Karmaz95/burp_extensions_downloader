@@ -126,6 +126,8 @@ wget https://portswigger-cdn.net/bappstore/bapps/download/c1d4bd60626d4178a54d36
 wget https://portswigger-cdn.net/bappstore/bapps/download/9ecd51851baf4ae6b69c6a951257387a -O "Similar Request Excluder.bapp"
 ## [Software Version Reporter](https://portswigger.net/bappstore/ae62baff8fa24150991bad5eaf6d4d38)
 wget https://portswigger-cdn.net/bappstore/bapps/download/ae62baff8fa24150991bad5eaf6d4d38 -O "Software Version Reporter.bapp"
+## [Software Vulnerability Scanner](https://portswigger.net/bappstore/c9fb79369b56407792a7104e3c4352fb)
+wget https://portswigger-cdn.net/bappstore/bapps/download/c9fb79369b56407792a7104e3c4352fb/7 -O "Software Vulnerability Scanner.bapp"
 ## [SRI Check](https://portswigger.net/bappstore/2e3a9895bb9b41f8b8a1193ec0399d3d)
 wget https://portswigger-cdn.net/bappstore/bapps/download/2e3a9895bb9b41f8b8a1193ec0399d3d -O "SRI Check.bapp"
 ## [SSL Scanner](https://portswigger.net/bappstore/474b3c575a1a4584aa44dfefc70f269d)
